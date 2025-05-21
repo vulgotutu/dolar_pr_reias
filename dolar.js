@@ -1,7 +1,7 @@
 function dolar() {
     const valor = document.getElementById("dolar").value;
     const resultado = document.getElementById("resultado");
-    const cotacao = 5.16;
+    const cotacao = 5.69;
 
     const valorDolar = Number(valor);
 
