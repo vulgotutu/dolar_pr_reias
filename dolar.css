@@ -16,6 +16,7 @@ body{
     margin-top: 190px;
     border: 8px black solid;
     border-radius: 15px;
+    font-size: 20px;
 }
 .title{
     display: flex;
@@ -38,8 +39,8 @@ body{
 button{
     height: 40PX;
     width: 150PX;
-    border: 4px black solid;
+    border: 4px rgb(0, 0, 0) solid;
     border-radius: 15px;
-    font-size: 14px;
+    font-size: 15px;
 }
 
